@@ -2,7 +2,7 @@
 
 Download Handouts:
 
-[hw1-1__m101j_m101p_5258458de2d4233537765336.zip](hw1-1__m101j_m101p_5258458de2d4233537765336.zip)
+[hw1-1__m101j_m101p_5258458de2d4233537765336.zip](/hw1-1__m101j_m101p_5258458de2d4233537765336.zip)
 
 Install MongoDB on your computer and run it on the standard port.
 
