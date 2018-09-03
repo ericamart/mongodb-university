@@ -2,7 +2,7 @@
 
 Download Handouts:
 
-[hw1-3__hw1.3_m101j_zip_5258466de2d423353776533c.zip] (
+[hw1-3__hw1.3_m101j_zip_5258466de2d423353776533c.zip](
 https://university.mongodb.com/static/MongoDB_2018_M101J_August/handouts/hw1-3__hw1.3_m101j_zip_5258466de2d423353776533c.zip)
 
 In this problem, we want to test) that you have a working JDK, that maven is installed and that you can run maven-based projects. Please install JDK for Java version 6 or 7, as well as Maven 3.1. If they are not already installed, you can find them in the courseware.
@@ -19,3 +19,7 @@ If everything is set up correctly, you will see the following:
 
 Type the number that appears after the colon into the box below. No spaces, nothing but digits.
 
+<details>
+  <summary>Solution</summary>
+  <br>523258
+</details>
