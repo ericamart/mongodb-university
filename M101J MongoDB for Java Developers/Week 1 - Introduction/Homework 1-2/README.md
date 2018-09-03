@@ -1,19 +1,17 @@
 # PROBLEM
 
-Download Handouts:
+Which of the following are valid JSON documents? Please choose all that apply.
 
-[hw1-1__m101j_m101p_5258458de2d4233537765336.zip](https://university.mongodb.com/static/MongoDB_2018_M101J_August/handouts/hw1-1__m101j_m101p_5258458de2d4233537765336.zip)
+- [ ] `{ "name" : "Fred Flinstone" ; "occupation": "Miner" ; "wife" : "Wilma" }`
+- [ ] `{ "title" : "Star Wars", "quotes" : [ "Use the Force", "These are not the droids you are looking for" ], "director" : "George Lucas" }`
+- [ ] ' {}``
+- [ ] `{ "city" = "New York", "population" = 7999034, "boroughs" = ["queens", "manhattan", "staten island", "the bronx", "brooklyn"] }`
+- [ ] `{ "a" : 1, "b" : { "b" : 1, "c" : "foo", "d" : "bar", "e" : [1, 2, 4] } }`
 
-Install MongoDB on your computer and run it on the standard port.
-
-Download the HW1-1 from the Download Handout link and uncompress it.
-
-Use mongorestore to restore the dump into your running mongod. Do this by opening a terminal window (mac) or cmd window (windows) and navigating to the directory so that you are in the parent directory of the dump directory (if you used the default extraction method, it should be hw1/). Now type:
-
-`mongorestore dump`
-
-Note you will need to have your path setup correctly to find mongorestore.
-
-Next, go into the Mongo shell, perform a findOne on the collection called hw1 in the database m101. That will return one document. Please provide the value corresponding to the "answer" key from the document returned.
-
-*hint: if you got back a document that looks like { "_id": 1234, "answer": 2468 }, you would put in 2468 (with no spaces) for your answer. This is not the correct number; you should get a different number.*
+<details>
+<summary>Solution</summary>
+  <br>
+  - { "title" : "Star Wars", "quotes" : [ "Use the Force", "These are not the droids you are looking for" ], "director" : "George Lucas" }<br>
+  - {}<br>
+  - { "a" : 1, "b" : { "b" : 1, "c" : "foo", "d" : "bar", "e" : [1, 2, 4] } }<br>
+</details>
