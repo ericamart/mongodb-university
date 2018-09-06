@@ -56,12 +56,13 @@ As a reminder, to run your blog you type:
 
 Or, use an IDE to run it.
 To play with the blog you can navigate to the following URLs
-``
+
+```
 http://localhost:8082/
 http://localhost:8082/signup
 http://localhost:8082/login
 http://localhost:8082/newpost
-```` 
+```
 
 When you believe you have solved the problem correctly, test your solution in MongoProc. When you see confirmation that your solution is correct, turn it in.
 You will see a message below about the number of times you have submitted a solution through MongoProc. You should not submit until testing in MongoProc confirms that your solution is correct.
