@@ -138,7 +138,7 @@ Suppose you have a collection called tweets whose documents contain information 
     },
     "ok" : 1
 }
-´´´
+```
 
 Check all that apply:
 
