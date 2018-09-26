@@ -35,14 +35,14 @@ Now it's your turn to analyze the data set. Find all exam scores greater than or
 
 What is the student_id of the lowest exam score above 65?
 
+Choose the best answer:
+
 - [ ] 115
 - [ ] 22
 - [ ] 48
 - [ ] 67
 - [ ] 87
 - [ ] 114
-
-Choose the best answer:
 
 <details>
   <summary>Solution</summary>
