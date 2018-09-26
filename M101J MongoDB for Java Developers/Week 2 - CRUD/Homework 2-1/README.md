@@ -12,14 +12,12 @@ Like the previous homework, it requires Maven to be installed correctly, your mo
 
 If all is working correctly, there should be two lines towards the bottom that say:
 
-' == Spark has ignited ...
->> Listening on 0.0.0.0:4567' 
+```
+== Spark has ignited ...
+>> Listening on 0.0.0.0:4567
+``` 
 
 Next, open a tab in your web browser and navigate to http://localhost:4567. There should be a single line of text that starts with:
-
-`THE ANSWER IS:`
-
-Type the number that appears after the colon into the box below, no spaces or punctuation.
 
 <details>
   <summary>Solution</summary>
