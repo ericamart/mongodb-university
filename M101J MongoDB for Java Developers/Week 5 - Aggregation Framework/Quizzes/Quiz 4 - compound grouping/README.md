@@ -2,7 +2,7 @@
 
 Download Handouts:
 - [compound1__m101p_52b1edebe2d4235b7e5ebb69.js](https://university.mongodb.com/static/MongoDB_2018_M101J_August/handouts/compound1__m101p_52b1edebe2d4235b7e5ebb69.js)
-- [simple_example1__m101p_52b1ef62e2d4235b7e5ebb6c.js](```
+- [simple_example1__m101p_52b1ef62e2d4235b7e5ebb6c.js](
 https://university.mongodb.com/static/MongoDB_2018_M101J_August/handouts/simple_example1__m101p_52b1ef62e2d4235b7e5ebb6c.js)
 
 Given the following collection:
